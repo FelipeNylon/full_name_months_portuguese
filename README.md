@@ -1,4 +1,4 @@
-# full_name_months_portuguese
+# full name months in portuguese
 Nome completo do mês atual em python e em português 
 
 
